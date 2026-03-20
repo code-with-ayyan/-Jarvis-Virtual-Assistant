@@ -21,7 +21,10 @@ music = {
     "mirror" : "https://youtu.be/QFMtWOwn670?si=P9W_wuuNl3h2kfYD",
     "four" : "https://youtu.be/UcU-yRIZ5DE?si=OH5Q3KV_OJAvWgfB",
     "minutes" : "https://youtu.be/shgTmiWAuHI?si=PMaa2lFZkr0pZZBw",
-    "you" : "https://youtu.be/shgTmiWAuHI?si=PMaa2lFZkr0pZZBw"
+    "you" : "https://youtu.be/shgTmiWAuHI?si=PMaa2lFZkr0pZZBw",
+    "lock" : "https://youtu.be/BhZnk8egLI0?si=_GCsCNDnVzHimVX_",
+    "kitty" : "https://youtu.be/wisJXAT_8sg?si=ACl6kixZ9Uppzttq",
+    "fucker" : "https://youtu.be/Fbv6-50S1lc?si=emH5cKAyGm2Sddb7"
 
 }
 
