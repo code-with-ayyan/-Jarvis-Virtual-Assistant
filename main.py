@@ -58,11 +58,14 @@ def processCommand(c) :
         webbrowser.open("https://www.youtube.com/")
         speak("opening youtube")
     elif "open whatsapp" in c.lower() :
-        webbrowser.open("https://www.whatsapp.com/")
+        webbrowser.open("https://web.whatsapp.com/")
         speak("opening whatsapp")
     elif "open facebook" in c.lower() :
-        webbrowser.open("https://www.facebook.com/")
+        webbrowser.open("https://www.instagram.com/")
         speak("opening facebook")
+    elif "open instagram" in c.lower() :
+        webbrowser.open("https://www.facebook.com/")
+        speak("opening instagram")
     elif c.lower().startswith("play") :
         song = c.lower().split(" ")[1]
         link = music[song]
